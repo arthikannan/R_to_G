@@ -1,0 +1,2 @@
+print("linking R project to GitHub")
+x=c(1,2,3,4)
